@@ -4,7 +4,7 @@ C / C++ / python / VBA / JavaScript(a little bit)
 ## Software Tools & Libraries
 OpenCV / ROS1 / Fusion360
 
-# What I'm interedted in
+# What I'm interested in
 - Robot
 - Control Engineering
 
