@@ -1,13 +1,26 @@
 # Skills
 ## Programming Languages
-C / C++ / python / VBA / JavaScript(a little bit)
+- C
+- C++
+- Python
+- VBA
+- JavaScript(a little bit)
 ## Software Tools & Libraries
-OpenCV / ROS1 / FreeRTOS / Fusion360
+- OpenCV
+- ROS1
+- FreeRTOS
+- Fusion360
 ## Hardwares
-PIC(12F, 16F, 18F, PIC24, dsPIC, PIC32) / STM32 / Raspberry Pi
+- PIC(12F, 16F, 18F, PIC24, dsPIC, PIC32)
+- STM32
+- Raspberry Pi(3B+, Zero W)
 ## Other Knowledge & Technical Skills
-Digital Filter Design / TCP based network / I<sup>2</sup>C / SPI / Quaternion / multi threading
-
+- Digital Filter Design
+- TCP based network
+- I<sup>2</sup>C communication
+- SPI communication
+- multi threading programming
+- Quaternion
 # What I'm interested in
 Robot / Control Engineering / Model Predictive Control / RTOS / Embedded System / Machine Learning / Image Processing(especially Realtime application)
 
