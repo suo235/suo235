@@ -2,12 +2,15 @@
 ## Programming Languages
 - C
 - C++
+- C#
 - Python
 - VBA
 - JavaScript(a little bit)
 ## Software Tools & Libraries
+- ASP.NET Core
+- SQLite 3
 - OpenCV
-- ROS1
+- ROS 1 / ROS 2
 - FreeRTOS
 - Fusion360
 ## Hardwares
