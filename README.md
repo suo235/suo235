@@ -6,17 +6,18 @@
 - Python
 - VBA
 - JavaScript(a little bit)
-## Software Tools & Libraries
+## Software Tools & Libraries & Frameworks
 - ASP.NET Core
+- .Net Framework 4.8
 - SQLite 3
 - OpenCV
 - ROS 1 / ROS 2
 - FreeRTOS
-- Fusion360
+- Node.js
 ## Hardwares
 - PIC(12F, 16F, 18F, PIC24, dsPIC, PIC32)
 - STM32
-- Raspberry Pi(3B+, Zero W)
+- Raspberry Pi(3B+, Zero W, 5)
 ## Other Knowledge & Technical Skills
 - Digital Filter Design
 - TCP based network
